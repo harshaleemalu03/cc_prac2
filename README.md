@@ -164,12 +164,3 @@ The Flask web application was successfully deployed on Google App Engine and acc
 ## 📚 Conclusion
 
 Google App Engine simplifies cloud deployment by automatically managing infrastructure, scaling, and server configuration. This practical demonstrated installation, configuration, and deployment of a Python web application on GAE.
-
----
-
-## 👩‍💻 Author
-
-Name: Harshalee Malu
-Class: TE Computer Engineering
-University: Savitribai Phule Pune University
-Pattern: 2019
